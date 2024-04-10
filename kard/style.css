@@ -1,0 +1,237 @@
+
+.frame-36981-1,
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 720px;
+  height: 800px;
+}
+.frame-child {
+  background-color: var(--white);
+}
+.frame-36981-1 {
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 2px;
+  left: 3.9px;
+  background-color: var(--white);
+  width: 102.2px;
+  height: 69px;
+}
+.group-item {
+  position: absolute;
+  top: 572px;
+  left: 12px;
+  background-color: rgba(255, 255, 255, 0.71);
+  width: 580px;
+  height: 66px;
+}
+.asset-3-1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 296px);
+  width: 106px;
+  height: 65px;
+  object-fit: cover;
+}
+.rectangle-group {
+  width: 592px;
+  position: relative;
+  height: 638px;
+  z-index: 0;
+}
+.group-37024-1 {
+  width: 565px;
+  position: absolute;
+  margin: 0 !important;
+  top: 190px;
+  border-radius:30px;
+  left: 27px;
+  height: 323px;
+  object-fit: cover;
+  z-index: 1;
+}
+.discover-identity-with {
+    font-size:25px;
+  width: 466px;
+  position: absolute;
+  margin: 0 !important;
+  top: 579px;
+  left: 55px;
+  display: inline-block;
+  z-index: 2;
+}
+.group-parent {
+  position: absolute;
+  top: 30px;
+  left: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.rectangle-parent {
+  width: 720px;
+  position: relative;
+  height: 800px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.login {
+  position: relative;
+  font-weight: 500;
+  color:white;
+  font-family: Poppins;
+}
+.username {
+  position: relative;
+  line-height: 155%;
+  font-weight: 600;
+}
+.username-wrapper {
+  padding: 0 0 var(--padding-9xs);
+  color:white;
+  font-family: Poppins;
+}
+.frame-wrapper1,
+.username-wrapper {
+    padding-right:100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div,
+.frame-group,
+.frame-item {
+    margin-top:10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-item {
+  border: 1px solid gray;
+  outline: 0;
+  background-color: transparent;
+  width: 430px;
+  border-radius: 100px;
+  box-sizing: border-box;
+  height: 42px;
+  justify-content: center;
+  color: darkgray;
+}
+.frame-div,
+.frame-group {
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.frame-group {
+  gap: 1px;
+  margin-right:-140px;
+}
+
+.dont-have-an-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 155%;
+  font-weight: 600;
+}
+.no-acc {
+    width: 240px;
+    position: relative;
+    height: 25px;
+    margin-top: 15px;
+    margin-bottom: -15px;
+    font-size: 17;
+    margin-right: 20px;
+}
+.login1 {
+  position: relative;
+  color: black;
+  text-align: left;
+}
+.buttonfilledmmtruefalsef {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: white;
+  width: 78px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding:1px;
+  box-sizing: border-box;
+  margin-top:30px;
+  margin-left:30px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+   width: 0px; /*cuz it was showing up outta nowhere */
+  position: relative;
+  height: 0px;
+}
+.frame-container,
+.login-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.login-parent {
+    margin-right:190px;
+  align-items: center;
+  gap: 2px;
+}
+.frame-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 247px 145px;
+
+}
+.frame-wrapper {
+  width: 720px;
+  position: relative;
+  height: 800px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  color:white;
+}
+.frame-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bruh {
+  width: 100%;
+  position: relative;
+  background-color:white;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  color: #676767;
+}
+h2{
+    margin-bottom:-10px;
+    margin-left:90px;
+}
+.signup{
+    color:orange;
+}
